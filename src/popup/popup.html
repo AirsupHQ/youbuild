@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>YouBuild settings</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <main id="app">
+    <header class="top">
+      <img src="../../icons/icon-48.png" alt="" width="28" height="28">
+      <div class="brand">
+        <h1>YouBuild</h1>
+        <p id="tagline">YouTube, but only people who build things.</p>
+      </div>
+      <input type="checkbox" class="switch" id="enabled" aria-label="YouBuild on">
+    </header>
+
+    <section class="block">
+      <div class="seg" role="radiogroup" aria-label="What to show">
+        <button type="button" data-strict="allowlist" role="radio">Builder list only</button>
+        <button type="button" data-strict="classifier" role="radio">List and topic check</button>
+      </div>
+      <p class="help" id="strict-help"></p>
+    </section>
+
+    <section class="block">
+      <p class="label">Categories</p>
+      <div class="cats" id="cats"></div>
+    </section>
+
+    <section class="block rows">
+      <label class="row"><span>Hide Shorts</span><input type="checkbox" class="switch" id="hideShorts"></label>
+      <label class="row"><span>Hide comments</span><input type="checkbox" class="switch" id="hideComments"></label>
+      <label class="row"><span>Why chips on videos</span><input type="checkbox" class="switch" id="showChips"></label>
+      <label class="row"><span>Shortest video</span>
+        <select id="minMinutes">
+          <option value="0">Any length</option>
+          <option value="2">2 minutes</option>
+          <option value="5">5 minutes</option>
+          <option value="10">10 minutes</option>
+          <option value="20">20 minutes</option>
+        </select>
+      </label>
+    </section>
+
+    <section class="block">
+      <p class="label">Your channels</p>
+      <div class="add">
+        <input type="text" id="add-input" placeholder="@handle or channel link" autocomplete="off" spellcheck="false">
+        <select id="add-cat" aria-label="Category"></select>
+        <button type="button" id="add-btn">Add</button>
+      </div>
+      <div class="tab-actions">
+        <button type="button" class="ghost" id="add-tab" disabled>Add the channel in this tab</button>
+        <button type="button" class="ghost" id="block-tab" disabled>Block it</button>
+      </div>
+      <p class="msg" id="add-msg"></p>
+      <ul class="list" id="mine"></ul>
+      <p class="label small" id="blocked-label" hidden>Blocked</p>
+      <ul class="list" id="blocked"></ul>
+      <div class="io">
+        <button type="button" class="ghost" id="export">Export</button>
+        <button type="button" class="ghost" id="import">Import</button>
+        <input type="file" id="import-file" accept="application/json,.json" hidden>
+      </div>
+    </section>
+
+    <section class="block">
+      <label class="row"><span>Ask Claude about unclear videos</span><input type="checkbox" class="switch" id="llm"></label>
+      <div id="llm-box" hidden>
+        <div class="add">
+          <input type="password" id="key" placeholder="Anthropic API key, sk-ant-..." autocomplete="off" spellcheck="false">
+          <button type="button" id="key-save">Save</button>
+        </div>
+        <p class="help">Off by default. Your key stays in this browser and goes only to api.anthropic.com, with the title, channel and description of the videos the local check is unsure about. Answers are cached per video. Claude Haiku 5.5 costs about 3 cents per 1,000 videos.</p>
+        <p class="msg" id="llm-msg"></p>
+      </div>
+    </section>
+
+    <footer class="foot">
+      <span id="list-info"></span>
+      <a href="https://github.com/AirsupHQ/youbuild" target="_blank" rel="noopener">GitHub</a>
+    </footer>
+  </main>
+  <script src="../lib/filter.js"></script>
+  <script src="popup.js"></script>
+</body>
+</html>
