@@ -1,0 +1,1954 @@
+{
+  "version": "2026.11.02",
+  "updated": "2026-11-02",
+  "note": "The YouBuild builder list. Every video from a channel here is shown, except channels with \"mode\": \"topic\", where only the videos the classifier calls building things are shown. Add a channel with a pull request: id, handle, name and one or more categories.",
+  "channels": [
+    {
+      "id": "UCYO_jab_esuFRV4b17AJtAw",
+      "handle": "@3blue1brown",
+      "name": "3Blue1Brown",
+      "categories": [
+        "explainers"
+      ],
+      "mode": "topic"
+    },
+    {
+      "id": "UC9cn0TuPq4dnbTY-CBsm8XA",
+      "handle": "@a16z",
+      "name": "a16z",
+      "categories": [
+        "interviews"
+      ],
+      "mode": "topic"
+    },
+    {
+      "id": "UCX981hh-RI_L1QOwV08osNA",
+      "handle": "@aaedmusa",
+      "name": "Aaed Musa",
+      "categories": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "UCw3UZn1tcVe7pH3R6C3Gcng",
+      "handle": "@Abom79",
+      "name": "Abom79",
+      "categories": [
+        "machining"
+      ]
+    },
+    {
+      "id": "UCyFqFYfTW2VoIQKylJ04Rtw",
+      "handle": "@AcquiredFM",
+      "name": "Acquired",
+      "categories": [
+        "interviews"
+      ],
+      "mode": "topic"
+    },
+    {
+      "id": "UCpOlOeQjj7EsVnDh3zuCgsA",
+      "handle": "@adafruit",
+      "name": "Adafruit Industries",
+      "categories": [
+        "electronics"
+      ]
+    },
+    {
+      "id": "UCiDJtJKMICpb9B1qf7qjEOA",
+      "handle": "@tested",
+      "name": "Adam Savage’s Tested",
+      "categories": [
+        "maker"
+      ]
+    },
+    {
+      "id": "UCE5dIscvDxrb7CD5uiJJOiw",
+      "handle": "@adriansdigitalbasement",
+      "name": "Adrian's Digital Basement",
+      "categories": [
+        "electronics"
+      ]
+    },
+    {
+      "id": "UC2M2T4FSz1kSqNhhL-n9R9A",
+      "handle": "@AdvancedTinkering",
+      "name": "Advanced Tinkering",
+      "categories": [
+        "maker",
+        "explainers"
+      ],
+      "mode": "topic"
+    },
+    {
+      "id": "UCh57rwk3ySElDpzgCDLh9KA",
+      "handle": "@AgentJayZ",
+      "name": "AgentJayZ",
+      "categories": [
+        "aerospace",
+        "teardowns"
+      ]
+    },
+    {
+      "id": "UCWizIdwZdmr43zfxlCktmNw",
+      "handle": "@AlecSteele",
+      "name": "Alec Steele",
+      "categories": [
+        "machining",
+        "maker"
+      ]
+    },
+    {
+      "id": "UCVS89U86PwqzNkK2qYNbk5A",
+      "handle": "@allenpan",
+      "name": "Allen Pan",
+      "categories": [
+        "maker"
+      ],
+      "mode": "topic"
+    },
+    {
+      "id": "UCCWeRTgd79JL0ilH0ZywSJA",
+      "handle": "@AlphaPhoenixChannel",
+      "name": "AlphaPhoenix",
+      "categories": [
+        "explainers"
+      ]
+    },
+    {
+      "id": "UCu7_D0o48KbfhpEohoP7YSQ",
+      "handle": "@AndreasSpiess",
+      "name": "Andreas Spiess",
+      "categories": [
+        "electronics"
+      ]
+    },
+    {
+      "id": "UCnZeeKO8qVdtkrA4-uKhtTw",
+      "handle": "@animagraffs",
+      "name": "Animagraffs",
+      "categories": [
+        "explainers",
+        "cars",
+        "aerospace"
+      ]
+    },
+    {
+      "id": "UC7nBCgEhZRsf8HcFMdNi1lQ",
+      "handle": "@AnsysLearning",
+      "name": "Ansys Learning",
+      "categories": [
+        "cad"
+      ]
+    },
+    {
+      "id": "UCivA7_KLKWo43tFcCkFvydw",
+      "handle": "@AppliedScience",
+      "name": "Applied Science",
+      "categories": [
+        "explainers",
+        "electronics",
+        "maker"
+      ]
+    },
+    {
+      "id": "UC1LpsuAUaKoMzzJSEt5WImw",
+      "handle": "@Asianometry",
+      "name": "Asianometry",
+      "categories": [
+        "explainers",
+        "manufacturing",
+        "electronics"
+      ]
+    },
+    {
+      "id": "UC4Otk-uDioJN0tg6s1QO9lw",
+      "handle": "@atomic14",
+      "name": "atomic14",
+      "categories": [
+        "electronics"
+      ]
+    },
+    {
+      "id": "UCiMwMz3RMbW5mbx0iDcRQ2g",
+      "handle": "@adskFusion",
+      "name": "Autodesk Fusion",
+      "categories": [
+        "cad"
+      ]
+    },
+    {
+      "id": "UChWv6Pn_zP0rI6lgGt3MyfA",
+      "handle": "@arduinoversusevil2025",
+      "name": "AvE",
+      "categories": [
+        "machining",
+        "teardowns"
+      ]
+    },
+    {
+      "id": "UCS0N5baNlQWJCUrhCEo8WlA",
+      "handle": "@BenEater",
+      "name": "Ben Eater",
+      "categories": [
+        "electronics"
+      ]
+    },
+    {
+      "id": "UCgeStlUnitobx8QcSxTw2aQ",
+      "handle": "@BenHeckHacks",
+      "name": "Ben Heck Hacks",
+      "categories": [
+        "electronics",
+        "maker"
+      ],
+      "aliases": [
+        "Ben Heck"
+      ],
+      "mode": "topic"
+    },
+    {
+      "id": "UCtM5z2gkrGRuWd0JQMx76qA",
+      "handle": "@bigclivedotcom",
+      "name": "bigclivedotcom",
+      "categories": [
+        "electronics",
+        "teardowns"
+      ]
+    },
+    {
+      "id": "UCp_5PO66faM4dBFbFFBdPSQ",
+      "handle": "@bitluni",
+      "name": "bitluni",
+      "categories": [
+        "electronics"
+      ]
+    },
+    {
+      "id": "UC7Jf7t6BL4e74O53dL6arSw",
+      "handle": "@Blondihacks",
+      "name": "Blondihacks",
+      "categories": [
+        "machining"
+      ]
+    },
+    {
+      "id": "UCUMZ7gohGI9HcU9VNsr2FJQ",
+      "handle": "@business",
+      "name": "Bloomberg Originals",
+      "categories": [
+        "interviews",
+        "manufacturing"
+      ],
+      "mode": "topic"
+    },
+    {
+      "id": "UCVxTHEKKLxNjGcvVaZindlg",
+      "handle": "@blueorigin",
+      "name": "Blue Origin",
+      "categories": [
+        "aerospace"
+      ]
+    },
+    {
+      "id": "UC7vVhkEfw4nOGp8TyDk7RcQ",
+      "handle": "@BostonDynamics",
+      "name": "Boston Dynamics",
+      "categories": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "UCILl8ozWuxnFYXIe2svjHhg",
+      "handle": "@BPSspace",
+      "name": "BPS.space",
+      "categories": [
+        "aerospace",
+        "maker"
+      ]
+    },
+    {
+      "id": "UCdp4_l1vPmpN-gDbUwhaRUQ",
+      "handle": "@BranchEducation",
+      "name": "Branch Education",
+      "categories": [
+        "explainers",
+        "electronics",
+        "teardowns"
+      ]
+    },
+    {
+      "id": "UC06HVrkOL33D5lLnCPjr6NQ",
+      "handle": "@BreakingTaps",
+      "name": "Breaking Taps",
+      "categories": [
+        "explainers",
+        "machining",
+        "manufacturing"
+      ]
+    },
+    {
+      "id": "UClsFdM0HzTdF1JYoraQ0aUw",
+      "handle": "@BrickExperimentChannel",
+      "name": "Brick Experiment Channel",
+      "categories": [
+        "robotics",
+        "maker"
+      ]
+    },
+    {
+      "id": "UCKqKiBDpq9j29bXbBx0cfOw",
+      "handle": "@buildwitt",
+      "name": "BuildWitt",
+      "categories": [
+        "manufacturing",
+        "energy"
+      ]
+    },
+    {
+      "id": "UCcyq283he07B7_KUX07mmtA",
+      "handle": "@BusinessInsider",
+      "name": "Business Insider",
+      "categories": [
+        "manufacturing"
+      ],
+      "mode": "topic"
+    },
+    {
+      "id": "UCe3GeL56-PZv1GWz7iFvCzw",
+      "handle": "@ChrisMaj",
+      "name": "Chris Maj",
+      "categories": [
+        "machining"
+      ]
+    },
+    {
+      "id": "UCes1EvRjcKU4sY_UEavndBw",
+      "handle": "@chrisfix",
+      "name": "ChrisFix",
+      "categories": [
+        "cars"
+      ]
+    },
+    {
+      "id": "UC6DhSUKasPbBLCSdPcGBxww",
+      "handle": "@chronovaengineering",
+      "name": "Chronova Engineering",
+      "categories": [
+        "machining"
+      ]
+    },
+    {
+      "id": "UC415bOPUcGSamy543abLmRA",
+      "handle": "@CleoAbram",
+      "name": "Cleo Abram",
+      "categories": [
+        "explainers",
+        "interviews"
+      ],
+      "mode": "topic"
+    },
+    {
+      "id": "UCworsKCR-Sx6R6-BnIjS2MA",
+      "handle": "@Clickspring",
+      "name": "Clickspring",
+      "categories": [
+        "machining"
+      ]
+    },
+    {
+      "id": "UCiczXOhGpvoQGhOL16EZiTg",
+      "handle": "@CNCKitchen",
+      "name": "CNC Kitchen",
+      "categories": [
+        "maker",
+        "cad"
+      ]
+    },
+    {
+      "id": "UCu6mSoMNzHQiBIOCkHUa2Aw",
+      "handle": "@theCodyReeder",
+      "name": "Cody'sLab",
+      "categories": [
+        "explainers",
+        "maker"
+      ],
+      "mode": "topic"
+    },
+    {
+      "id": "UCp68_FLety0O-n9QU6phsgw",
+      "handle": "@colinfurze",
+      "name": "colinfurze",
+      "categories": [
+        "maker",
+        "machining"
+      ]
+    },
+    {
+      "id": "UCHDr4RtxwA1KqKGwxgdK4Vg",
+      "handle": "@ComputerHistory",
+      "name": "Computer History Museum",
+      "categories": [
+        "interviews",
+        "electronics"
+      ]
+    },
+    {
+      "id": "UCzWnSedVeqUyze_R6M5BqwA",
+      "handle": "@CoreMemoryVideos",
+      "name": "Core Memory",
+      "categories": [
+        "interviews"
+      ]
+    },
+    {
+      "id": "UC726J5A0LLFRxQ0SZqr2mYQ",
+      "handle": "@CuriousDroid",
+      "name": "Curious Droid",
+      "categories": [
+        "explainers",
+        "aerospace"
+      ]
+    },
+    {
+      "id": "UC3bosUr3WlKYm4sBaLs-Adw",
+      "handle": "@CuriousMarc",
+      "name": "CuriousMarc",
+      "categories": [
+        "electronics",
+        "teardowns"
+      ]
+    },
+    {
+      "id": "UC2wdo5vU7bPBNzyC2nnwmNQ",
+      "handle": "@CuttingEdgeEngineering",
+      "name": "Cutting Edge Engineering Australia",
+      "categories": [
+        "machining"
+      ],
+      "aliases": [
+        "Cutting Edge Engineering"
+      ]
+    },
+    {
+      "id": "UCQak2_fXZ_9yXI5vB_Kd54g",
+      "handle": "@DiodeGoneWild",
+      "name": "DiodeGoneWild",
+      "categories": [
+        "electronics",
+        "teardowns"
+      ]
+    },
+    {
+      "id": "UCUQo7nzH1sXVpzL92VesANw",
+      "handle": "@DIYPerks",
+      "name": "DIY Perks",
+      "categories": [
+        "maker",
+        "electronics"
+      ]
+    },
+    {
+      "id": "UCoj6RxIAQq8kmJme-5dnN0Q",
+      "handle": "@WillProwse",
+      "name": "DIY Solar Power with Will Prowse",
+      "categories": [
+        "energy",
+        "electronics"
+      ],
+      "aliases": [
+        "Will Prowse"
+      ]
+    },
+    {
+      "id": "UCwosUnVH6AINmxtqkNJ3Fbg",
+      "handle": "@d4a",
+      "name": "driving 4 answers",
+      "categories": [
+        "cars"
+      ]
+    },
+    {
+      "id": "UCXl4i9dYBrFOabk0xGmbkRA",
+      "handle": "@DwarkeshPatel",
+      "name": "Dwarkesh Patel",
+      "categories": [
+        "interviews"
+      ],
+      "mode": "topic"
+    },
+    {
+      "id": "UCCkSr3M8GXbS4txqPY7OMxQ",
+      "handle": "@EdgePrecision",
+      "name": "Edge Precision",
+      "categories": [
+        "machining"
+      ]
+    },
+    {
+      "id": "UC2DjFE7Xf11URZqWBigcVOQ",
+      "handle": "@EEVblog",
+      "name": "EEVblog",
+      "categories": [
+        "electronics",
+        "teardowns"
+      ]
+    },
+    {
+      "id": "UCJ0-OtVpF0wOKEqT2Z1HEtA",
+      "handle": "@ElectroBOOM",
+      "name": "ElectroBOOM",
+      "categories": [
+        "electronics"
+      ]
+    },
+    {
+      "id": "UCjiVhIvGmRZixSzupD0sS9Q",
+      "handle": "@ELECTRONOOBS",
+      "name": "Electronoobs",
+      "categories": [
+        "electronics"
+      ]
+    },
+    {
+      "id": "UC2bkHVIDjXS7sgrgjFtzOXQ",
+      "handle": "@engineerguyvideo",
+      "name": "engineerguy",
+      "categories": [
+        "explainers",
+        "manufacturing"
+      ]
+    },
+    {
+      "id": "UClqhvGmHcvWL9w3R48t9QXQ",
+      "handle": "@EngineeringExplained",
+      "name": "Engineering Explained",
+      "categories": [
+        "cars",
+        "explainers"
+      ]
+    },
+    {
+      "id": "UClu8Q445-ZAG1dzzP1mHiAw",
+      "handle": "@EngineeringwithRosie",
+      "name": "Engineering with Rosie",
+      "categories": [
+        "energy"
+      ]
+    },
+    {
+      "id": "UCIBaDdAbGlFDeS33shmlD0A",
+      "handle": "@EuropeanSpaceAgency",
+      "name": "European Space Agency, ESA",
+      "categories": [
+        "aerospace"
+      ]
+    },
+    {
+      "id": "UC6uKrU_WqJ1R2HMTY3LIx5Q",
+      "handle": "@EverydayAstronaut",
+      "name": "Everyday Astronaut",
+      "categories": [
+        "aerospace",
+        "interviews"
+      ]
+    },
+    {
+      "id": "UCsWRAAMs_Cn78_kRLSpkb6w",
+      "handle": "@FesZElectronics",
+      "name": "FesZ Electronics",
+      "categories": [
+        "electronics"
+      ]
+    },
+    {
+      "id": "UCVveEFTOd6khhSXXnRhxJmg",
+      "handle": "@FireballTool",
+      "name": "Fireball Tool",
+      "categories": [
+        "machining"
+      ]
+    },
+    {
+      "id": "UC9zTuyWffK9ckEz1216noAw",
+      "handle": "@FliteTest",
+      "name": "FliteTest",
+      "categories": [
+        "aerospace",
+        "maker"
+      ]
+    },
+    {
+      "id": "UCcqQi9LT0ETkRoUu8eYaEkg",
+      "handle": "@fluidmechanics101",
+      "name": "Fluid Mechanics 101",
+      "categories": [
+        "cad",
+        "explainers"
+      ]
+    },
+    {
+      "id": "UC3_VCOJMaivgcGqPCTePLBA",
+      "handle": "@frankmakes",
+      "name": "frank howarth",
+      "categories": [
+        "maker"
+      ]
+    },
+    {
+      "id": "UC6mIxFTvXkWQVEHPsEdflzQ",
+      "handle": "@greatscottlab",
+      "name": "GreatScott!",
+      "categories": [
+        "electronics"
+      ]
+    },
+    {
+      "id": "UCi-1bvDwzwBq0OFKiF2atkg",
+      "handle": "@haasautomation",
+      "name": "Haas Automation, Inc.",
+      "categories": [
+        "machining"
+      ],
+      "aliases": [
+        "Haas Automation"
+      ]
+    },
+    {
+      "id": "UCnv0gfLQFNGPJ5MHSGuIAkw",
+      "handle": "@hackaday",
+      "name": "HACKADAY",
+      "categories": [
+        "electronics",
+        "maker"
+      ]
+    },
+    {
+      "id": "UCjgpFI5dU-D1-kh9H1muoxQ",
+      "handle": "@hacksmith",
+      "name": "Hacksmith Industries",
+      "categories": [
+        "maker"
+      ]
+    },
+    {
+      "id": "UCasG9kJWi1eVxM0QkyqKVJQ",
+      "handle": "@HandToolRescue",
+      "name": "Hand Tool Rescue",
+      "categories": [
+        "machining"
+      ]
+    },
+    {
+      "id": "UCmMwHbw2j8LfvTKVh3O7Vdw",
+      "handle": "@HighYield",
+      "name": "High Yield",
+      "categories": [
+        "electronics",
+        "explainers"
+      ]
+    },
+    {
+      "id": "UCfIqCzQJXvYj9ssCoHq327g",
+      "handle": "@htme",
+      "name": "How To Make Everything",
+      "categories": [
+        "manufacturing",
+        "maker"
+      ]
+    },
+    {
+      "id": "UC26YLK0OEbLB3TCYxGh8xVQ",
+      "handle": "@HuygensOptics",
+      "name": "Huygens Optics",
+      "categories": [
+        "explainers",
+        "electronics"
+      ]
+    },
+    {
+      "id": "UCcMDMoNu66_1Hwi5-MeiQgw",
+      "handle": "@HydraulicPressChannel",
+      "name": "Hydraulic Press Channel",
+      "categories": [
+        "explainers"
+      ],
+      "mode": "topic"
+    },
+    {
+      "id": "UC8i-4EpLBXMzekETNXwcZjA",
+      "handle": "@HyperspacePirate",
+      "name": "Hyperspace Pirate",
+      "categories": [
+        "maker",
+        "energy"
+      ]
+    },
+    {
+      "id": "UCgzJHvOhLert9g2yT-09RMQ",
+      "handle": "@I_Do_Cars",
+      "name": "I Do Cars",
+      "categories": [
+        "cars",
+        "teardowns"
+      ]
+    },
+    {
+      "id": "UC6x7GwJxuoABSosgVXDYtTw",
+      "handle": "@Iliketomakestuff",
+      "name": "I Like To Make Stuff",
+      "categories": [
+        "maker"
+      ]
+    },
+    {
+      "id": "UCFQDtftsHGzSh1-TReNT4lA",
+      "handle": "@ieeespectrum",
+      "name": "IEEE Spectrum",
+      "categories": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "UCHbx9IUW7eCeJsC4sBCTNBA",
+      "handle": "@iFixitYourself",
+      "name": "iFixit",
+      "categories": [
+        "teardowns"
+      ]
+    },
+    {
+      "id": "UCVI8Mfisni3GaobL1e2JOIQ",
+      "handle": "@InheritanceMachining",
+      "name": "Inheritance Machining",
+      "categories": [
+        "machining"
+      ]
+    },
+    {
+      "id": "UC2avWDLN1EI3r1RZ_dlSxCw",
+      "handle": "@integza",
+      "name": "Integza",
+      "categories": [
+        "maker",
+        "aerospace"
+      ]
+    },
+    {
+      "id": "UCF3cDM_hQMtIEJvEW1BZugg",
+      "handle": "@ivanmirandawastaken",
+      "name": "Ivan Miranda",
+      "categories": [
+        "maker",
+        "robotics"
+      ]
+    },
+    {
+      "id": "UCUbDcUPed50Y_7KmfCXKohA",
+      "handle": "@jamesbruton",
+      "name": "James Bruton",
+      "categories": [
+        "robotics",
+        "maker"
+      ]
+    },
+    {
+      "id": "UCbsfyGlrjrKQC0gbzK0-EiA",
+      "handle": "@JaredOwen",
+      "name": "Jared Owen",
+      "categories": [
+        "explainers",
+        "teardowns"
+      ]
+    },
+    {
+      "id": "UCQMELFlXQL38KPm8kM-4Adg",
+      "handle": "@jaylenosgarage",
+      "name": "Jay Leno's Garage",
+      "categories": [
+        "cars"
+      ],
+      "mode": "topic"
+    },
+    {
+      "id": "UCR-DXc1voovS8nhAvccRZhg",
+      "handle": "@JeffGeerling",
+      "name": "Jeff Geerling",
+      "categories": [
+        "electronics"
+      ]
+    },
+    {
+      "id": "UC_SLthyNX_ivd-dmsFgmJVg",
+      "handle": "@Jeremy_Fielding",
+      "name": "Jeremy Fielding",
+      "categories": [
+        "machining",
+        "robotics",
+        "maker"
+      ]
+    },
+    {
+      "id": "UCWFKCr40YwOZQx8FHU_ZqqQ",
+      "handle": "@JerryRigEverything",
+      "name": "JerryRigEverything",
+      "categories": [
+        "teardowns"
+      ],
+      "mode": "topic"
+    },
+    {
+      "id": "UCiEk4xHBbz0hZNIBBpowdYQ",
+      "handle": "@jimmydiresta",
+      "name": "jimmydiresta",
+      "categories": [
+        "maker"
+      ]
+    },
+    {
+      "id": "UCqGONXW1ORgz5Y4qK-0JdkQ",
+      "handle": "@JoeGrand",
+      "name": "Joe Grand",
+      "categories": [
+        "electronics",
+        "teardowns"
+      ]
+    },
+    {
+      "id": "UCJEDniyP_YtcsXikBELqicw",
+      "handle": "@Joe_Lonsdale",
+      "name": "Joe Lonsdale",
+      "categories": [
+        "interviews"
+      ],
+      "aliases": [
+        "American Optimist"
+      ],
+      "mode": "topic"
+    },
+    {
+      "id": "UCpp6lgdc_XO_FZYJppaFa5w",
+      "handle": "@joepie221",
+      "name": "Joe Pie",
+      "categories": [
+        "machining"
+      ]
+    },
+    {
+      "id": "UCHk0IYEDJxQGQ-nbd3yP_KA",
+      "handle": "@JoelCreates",
+      "name": "Joel Creates",
+      "categories": [
+        "maker"
+      ]
+    },
+    {
+      "id": "UCjA8vRlL1c7BDixQRJ39-LQ",
+      "handle": "@JohnHeisz",
+      "name": "John Heisz - I Build It",
+      "categories": [
+        "maker"
+      ],
+      "aliases": [
+        "John Heisz"
+      ]
+    },
+    {
+      "id": "UCRBwLPbXGsI2cJe9W1zfSjQ",
+      "handle": "@JustHaveaThink",
+      "name": "Just Have a Think",
+      "categories": [
+        "energy"
+      ]
+    },
+    {
+      "id": "UCDmxnPem-pPfJQATIkfgY2Q",
+      "handle": "@KeithFenner",
+      "name": "Keith Fenner",
+      "categories": [
+        "machining"
+      ]
+    },
+    {
+      "id": "UC1TtnT24NS1v12Si2qstYZA",
+      "handle": "@KerryWongBlog",
+      "name": "Kerry Wong",
+      "categories": [
+        "electronics"
+      ]
+    },
+    {
+      "id": "UCFbtcTaMFnOAP0pFO1L8hVw",
+      "handle": "@kylehill",
+      "name": "Kyle Hill",
+      "categories": [
+        "explainers",
+        "energy"
+      ],
+      "mode": "topic"
+    },
+    {
+      "id": "UCo29kn3d9ziFUZGZ50VKvWA",
+      "handle": "@cadcamstuff",
+      "name": "Lars Christensen",
+      "categories": [
+        "cad",
+        "machining"
+      ]
+    },
+    {
+      "id": "UCRix1GJvSBNDpEFY561eSzw",
+      "handle": "@laurakampf",
+      "name": "Laura Kampf",
+      "categories": [
+        "maker"
+      ]
+    },
+    {
+      "id": "UCSHZKyawb77ixDdsGog4iWA",
+      "handle": "@lexfridman",
+      "name": "Lex Fridman",
+      "categories": [
+        "interviews"
+      ],
+      "mode": "topic"
+    },
+    {
+      "id": "UCafxR2HWJRmMfSdyZXvZMTw",
+      "handle": "@LOOKMUMNOCOMPUTER",
+      "name": "LOOK MUM NO COMPUTER",
+      "categories": [
+        "electronics",
+        "maker"
+      ]
+    },
+    {
+      "id": "UCfsznjef2zGJnrCRQBXqo6Q",
+      "handle": "@machinethinking",
+      "name": "Machine Thinking",
+      "categories": [
+        "explainers",
+        "manufacturing",
+        "machining"
+      ]
+    },
+    {
+      "id": "UCb8Rde3uRL1ohROUVg46h1A",
+      "handle": "@MadeWithLayers",
+      "name": "Made with Layers (Thomas Sanladerer)",
+      "categories": [
+        "maker"
+      ]
+    },
+    {
+      "id": "UCkhZ3X6pVbrEs_VzIPfwWgQ",
+      "handle": "@MakeitExtreme",
+      "name": "Make it Extreme",
+      "categories": [
+        "machining",
+        "maker"
+      ]
+    },
+    {
+      "id": "UCtaykeSsGhtn2o2BsPm-rsw",
+      "handle": "@MakeSomething",
+      "name": "Make Something",
+      "categories": [
+        "maker"
+      ]
+    },
+    {
+      "id": "UCUWhaOxsRk_5oPPq00_Y7Dw",
+      "handle": "@MangoJellySolutions",
+      "name": "MangoJelly Solutions for FreeCAD",
+      "categories": [
+        "cad"
+      ]
+    },
+    {
+      "id": "UC1O0jDlG51N3jGf6_9t-9mw",
+      "handle": "@reps",
+      "name": "Marco Reps",
+      "categories": [
+        "electronics"
+      ]
+    },
+    {
+      "id": "UCBNHHEoiSF8pcLgqLKVugOw",
+      "handle": "@MarcusHouse",
+      "name": "Marcus House",
+      "categories": [
+        "aerospace"
+      ]
+    },
+    {
+      "id": "UCn7lavsPdVGV0qmEEBT6NyA",
+      "handle": "@MariusHornberger",
+      "name": "Marius Hornberger",
+      "categories": [
+        "maker",
+        "machining"
+      ]
+    },
+    {
+      "id": "UCY1kMZp36IQSyNx_9h4mpCg",
+      "handle": "@MarkRober",
+      "name": "Mark Rober",
+      "categories": [
+        "maker"
+      ]
+    },
+    {
+      "id": "UCckETVOT59aYw80B36aP9vw",
+      "handle": "@matthiaswandel",
+      "name": "MatthiasWandel",
+      "categories": [
+        "maker"
+      ]
+    },
+    {
+      "id": "UCwpHKudUkP5tNgmMdexB3ow",
+      "handle": "@MentourPilot",
+      "name": "Mentour Pilot",
+      "categories": [
+        "aerospace"
+      ],
+      "mode": "topic"
+    },
+    {
+      "id": "UCHS55yDvORmCpbM_3vNQQsQ",
+      "handle": "@michaelrechtin",
+      "name": "Michael Rechtin",
+      "categories": [
+        "maker",
+        "robotics"
+      ]
+    },
+    {
+      "id": "UCgJRL30YS6XFxq9Ga8W2J3A",
+      "handle": "@mightycarmods",
+      "name": "Mighty Car Mods",
+      "categories": [
+        "cars",
+        "maker"
+      ]
+    },
+    {
+      "id": "UCcs0ZkP_as4PpHDhFcmCHyA",
+      "handle": "@mikeselectricstuff",
+      "name": "mikeselectricstuff",
+      "categories": [
+        "electronics",
+        "teardowns"
+      ]
+    },
+    {
+      "id": "UCUHW94eEFW7hkUMVaZz4eDg",
+      "handle": "@MinutePhysics",
+      "name": "minutephysics",
+      "categories": [
+        "explainers"
+      ]
+    },
+    {
+      "id": "UCEBb1b_L6zDS3xTUrIALZOw",
+      "handle": "@mitocw",
+      "name": "MIT OpenCourseWare",
+      "categories": [
+        "interviews",
+        "explainers"
+      ],
+      "mode": "topic"
+    },
+    {
+      "id": "UCzfW6SlNEyxmAPtdr3n-_Og",
+      "handle": "@MoritzKlein0",
+      "name": "Moritz Klein",
+      "categories": [
+        "electronics"
+      ]
+    },
+    {
+      "id": "UCU9SoQxJewrWb_3GxeteQPA",
+      "handle": "@MrCarlsonsLab",
+      "name": "Mr Carlson's Lab",
+      "categories": [
+        "electronics"
+      ]
+    },
+    {
+      "id": "UCKLIIdKEpjAnn8E76KP7sQg",
+      "handle": "@mrpete222",
+      "name": "mrpete222",
+      "categories": [
+        "machining"
+      ]
+    },
+    {
+      "id": "UCj--iMtToRO_cGG_fpmP5XQ",
+      "handle": "@MunroLive",
+      "name": "Munro Live",
+      "categories": [
+        "cars",
+        "teardowns",
+        "manufacturing"
+      ]
+    },
+    {
+      "id": "UC1ZBQ-F-yktYD4m5AzM6pww",
+      "handle": "@MustardChannel",
+      "name": "Mustard",
+      "categories": [
+        "explainers",
+        "aerospace"
+      ]
+    },
+    {
+      "id": "UCMrMVIBtqFW6O0-MWq26gqw",
+      "handle": "@mymechanics",
+      "name": "my mechanics",
+      "categories": [
+        "machining"
+      ]
+    },
+    {
+      "id": "UCLA_DiR1FfKNvjuUpBHmylQ",
+      "handle": "@NASA",
+      "name": "NASA",
+      "categories": [
+        "aerospace"
+      ]
+    },
+    {
+      "id": "UCryGec9PdUCLjpJW2mgCuLw",
+      "handle": "@NASAJPL",
+      "name": "NASA Jet Propulsion Laboratory",
+      "categories": [
+        "aerospace"
+      ]
+    },
+    {
+      "id": "UCSUu1lih2RifWkKtDOJdsBA",
+      "handle": "@NASASpaceflight",
+      "name": "NASASpaceflight",
+      "categories": [
+        "aerospace"
+      ]
+    },
+    {
+      "id": "UCpVm7bg6pXKo1Pr6k5kxG9A",
+      "handle": "@NatGeo",
+      "name": "National Geographic",
+      "categories": [
+        "explainers"
+      ],
+      "mode": "topic"
+    },
+    {
+      "id": "UCFtc3XdXgLFwhlDajMGK69w",
+      "handle": "@Nighthawkinlight",
+      "name": "NightHawkInLight",
+      "categories": [
+        "maker"
+      ]
+    },
+    {
+      "id": "UChrCgXmIW1toX2B7viP6S7Q",
+      "handle": "@nikodembartnik",
+      "name": "Nikodem Bartnik",
+      "categories": [
+        "robotics",
+        "maker"
+      ]
+    },
+    {
+      "id": "UCFhXFikryT4aFcLkLw2LBLA",
+      "handle": "@NileRed",
+      "name": "NileRed",
+      "categories": [
+        "explainers",
+        "maker"
+      ]
+    },
+    {
+      "id": "UCiK0J5wtnyX2jP-AiGbdhjg",
+      "handle": "@NorthwesternRobotics",
+      "name": "Northwestern Robotics",
+      "categories": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "UC4pNDofN0Xh-z2bhh62g8Ow",
+      "handle": "@NotWhatYouThink",
+      "name": "Not What You Think",
+      "categories": [
+        "explainers",
+        "aerospace"
+      ]
+    },
+    {
+      "id": "UCe0IyK4ntgdPTTjsxjvyHPg",
+      "handle": "@nyccnc",
+      "name": "NYC CNC",
+      "categories": [
+        "machining",
+        "manufacturing"
+      ]
+    },
+    {
+      "id": "UCTvd5lUSLtTH8Qcd7Pl1nQg",
+      "handle": "@OnshapeInc",
+      "name": "Onshape",
+      "categories": [
+        "cad"
+      ]
+    },
+    {
+      "id": "UCZC9LGZLfyjrKT4OZne-JNw",
+      "handle": "@oxtoolco",
+      "name": "oxtoolco",
+      "categories": [
+        "machining"
+      ]
+    },
+    {
+      "id": "UCNyGbxoEo6CQvaRVEvItxkA",
+      "handle": "@PaskMakes",
+      "name": "Pask Makes",
+      "categories": [
+        "machining",
+        "maker"
+      ]
+    },
+    {
+      "id": "UC7_gcs09iThXybpVgjHZ_7g",
+      "handle": "@pbsspacetime",
+      "name": "PBS Space Time",
+      "categories": [
+        "explainers"
+      ]
+    },
+    {
+      "id": "UC7yF9tV4xWEMZkel7q8La_w",
+      "handle": "@PeterSripol",
+      "name": "PeterSripol",
+      "categories": [
+        "aerospace",
+        "maker"
+      ]
+    },
+    {
+      "id": "UCVryWqJ4cSlbTSETBHpBUWw",
+      "handle": "@PhilsLab",
+      "name": "Phil’s Lab",
+      "categories": [
+        "electronics",
+        "cad"
+      ]
+    },
+    {
+      "id": "UCg45A-ph7Eu8jQgfrwDkHLg",
+      "handle": "@PlasmaChannel",
+      "name": "Plasma Channel",
+      "categories": [
+        "electronics",
+        "maker"
+      ]
+    },
+    {
+      "id": "UCMOqf8ab-42UUQIdVoKwjlQ",
+      "handle": "@PracticalEngineeringChannel",
+      "name": "Practical Engineering",
+      "categories": [
+        "explainers",
+        "energy"
+      ]
+    },
+    {
+      "id": "UClZbmi9JzfnB2CEb0fG8iew",
+      "handle": "@primalspace",
+      "name": "Primal Space",
+      "categories": [
+        "aerospace",
+        "explainers"
+      ],
+      "mode": "topic"
+    },
+    {
+      "id": "UCAL3JXZSzSm8AlZyD3nQdBA",
+      "handle": "@primitivetechnology9550",
+      "name": "Primitive Technology",
+      "categories": [
+        "maker"
+      ]
+    },
+    {
+      "id": "UCooViVfi0DaWk_eqxIXXiOQ",
+      "handle": "@ProductDesignOnline",
+      "name": "Product Design Online",
+      "categories": [
+        "cad"
+      ]
+    },
+    {
+      "id": "UC1nzmktP1usjdqewrBDN_uQ",
+      "handle": "@ProtolabsMFG",
+      "name": "Protolabs",
+      "categories": [
+        "manufacturing"
+      ]
+    },
+    {
+      "id": "UCPO4D4-UeeFQceK8XrgwXug",
+      "handle": "@rainfallprojects501",
+      "name": "Rainfall Projects",
+      "categories": [
+        "machining",
+        "maker"
+      ]
+    },
+    {
+      "id": "UCA0ZY1x5r2lyKQfoUYvHvqQ",
+      "handle": "@Ratarossa",
+      "name": "Ratarossa",
+      "categories": [
+        "cars",
+        "machining"
+      ]
+    },
+    {
+      "id": "UCq2rNse2XX4Rjzmldv9GqrQ",
+      "handle": "@rctestflight",
+      "name": "rctestflight",
+      "categories": [
+        "aerospace",
+        "maker"
+      ]
+    },
+    {
+      "id": "UCR1IuLEqb6UEA_zQ81kwXfg",
+      "handle": "@RealEngineering",
+      "name": "Real Engineering",
+      "categories": [
+        "explainers",
+        "aerospace",
+        "energy"
+      ]
+    },
+    {
+      "id": "UCJQkHVpk3A8bgDmPlJlOJOA",
+      "handle": "@RobertFeranec",
+      "name": "Robert Feranec",
+      "categories": [
+        "electronics",
+        "cad"
+      ]
+    },
+    {
+      "id": "UC4AkVj-qnJxNtKuz3rkq16A",
+      "handle": "@ThinkingandTinkering",
+      "name": "Robert Murray-Smith",
+      "categories": [
+        "energy",
+        "maker"
+      ]
+    },
+    {
+      "id": "UCHjP785620I8LFjSxf_CJCw",
+      "handle": "@leggedrobotics",
+      "name": "Robotic Systems Lab: Legged Robotics at ETH Zürich",
+      "categories": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "UCn4U3aEr6L2nLe1m_3as6JQ",
+      "handle": "@ROBRENZ",
+      "name": "ROBRENZ",
+      "categories": [
+        "machining"
+      ]
+    },
+    {
+      "id": "UCsWq7LZaizhIi-c-Yo_bcpw",
+      "handle": "@RocketLabCorp",
+      "name": "Rocket Lab",
+      "categories": [
+        "aerospace"
+      ]
+    },
+    {
+      "id": "UC0-ronCUQNwMIkouWQC5mJQ",
+      "handle": "@RonCovell",
+      "name": "Ron Covell",
+      "categories": [
+        "machining"
+      ]
+    },
+    {
+      "id": "UCqZQJ4600a9wIfMPbYc60OQ",
+      "handle": "@SabinCivil",
+      "name": "Sabin Civil Engineering",
+      "categories": [
+        "explainers",
+        "cars",
+        "energy"
+      ],
+      "aliases": [
+        "Lesics"
+      ]
+    },
+    {
+      "id": "UC7E8-0Ou69hwScPW1_fQApA",
+      "handle": "@SamZeloof",
+      "name": "Sam Zeloof",
+      "categories": [
+        "electronics",
+        "manufacturing"
+      ]
+    },
+    {
+      "id": "UCvJiYiBUbw4tmpRSZT2r1Hw",
+      "handle": "@sciencechannel",
+      "name": "Science Channel",
+      "categories": [
+        "manufacturing",
+        "explainers"
+      ],
+      "mode": "topic"
+    },
+    {
+      "id": "UCxzC4EngIsMrPmbm6Nxvb-A",
+      "handle": "@scottmanley",
+      "name": "Scott Manley",
+      "categories": [
+        "aerospace"
+      ]
+    },
+    {
+      "id": "UCWrF0oN6unbXrWsTN7RctTw",
+      "handle": "@sequoiacapital",
+      "name": "Sequoia Capital",
+      "categories": [
+        "interviews"
+      ],
+      "mode": "topic"
+    },
+    {
+      "id": "UC3KEoMzNz8eYnwBC34RaKCQ",
+      "handle": "@simonegiertz",
+      "name": "Simone Giertz",
+      "categories": [
+        "maker"
+      ]
+    },
+    {
+      "id": "UCvBqzzvUBLCs8Y7Axb-jZew",
+      "handle": "@sixtysymbols",
+      "name": "Sixty Symbols",
+      "categories": [
+        "explainers"
+      ]
+    },
+    {
+      "id": "UCcgqJ1blFKqbC2bWGY4Opmg",
+      "handle": "@Skyentific",
+      "name": "Skyentific",
+      "categories": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "UC6QNjBn6KMq5-pe3OE11zZg",
+      "handle": "@slant3d",
+      "name": "Slant 3D",
+      "categories": [
+        "manufacturing",
+        "maker"
+      ]
+    },
+    {
+      "id": "UC6107grRI4m0o2-emgoDnAA",
+      "handle": "@smartereveryday",
+      "name": "SmarterEveryDay",
+      "categories": [
+        "explainers",
+        "manufacturing"
+      ]
+    },
+    {
+      "id": "UC0NX5l_sS-y14xc9XtPzsPw",
+      "handle": "@solidworks",
+      "name": "SOLIDWORKS",
+      "categories": [
+        "cad"
+      ]
+    },
+    {
+      "id": "UCtI0Hodo5o5dUb67FeUjDeA",
+      "handle": "@SpaceX",
+      "name": "SpaceX",
+      "categories": [
+        "aerospace"
+      ]
+    },
+    {
+      "id": "UCKPLvnWhN1Qo51IDDZsmq1g",
+      "handle": "@sparkfun",
+      "name": "SparkFun Electronics",
+      "categories": [
+        "electronics"
+      ]
+    },
+    {
+      "id": "UCctkeBNtFIOn7Yl_9TTj_4w",
+      "handle": "@ecorner",
+      "name": "Stanford eCorner",
+      "categories": [
+        "interviews"
+      ],
+      "mode": "topic"
+    },
+    {
+      "id": "UCY8gSLTqvs38bR9X061jFWw",
+      "handle": "@StefanGotteswinter",
+      "name": "Stefan Gotteswinter",
+      "categories": [
+        "machining"
+      ]
+    },
+    {
+      "id": "UCEIwxahdLz7bap-VDs9h35A",
+      "handle": "@SteveMould",
+      "name": "Steve Mould",
+      "categories": [
+        "explainers"
+      ]
+    },
+    {
+      "id": "UCO8DQrSp5yEP937qNqTooOw",
+      "handle": "@StrangeParts",
+      "name": "Strange Parts",
+      "categories": [
+        "manufacturing",
+        "teardowns",
+        "electronics"
+      ]
+    },
+    {
+      "id": "UCj1VqrHhDte54oLgPG4xpuQ",
+      "handle": "@StuffMadeHere",
+      "name": "Stuff Made Here",
+      "categories": [
+        "maker",
+        "machining",
+        "robotics"
+      ]
+    },
+    {
+      "id": "UCJYJgj7rzsn0vdR7fkgjuIA",
+      "handle": "@styropyro",
+      "name": "styropyro",
+      "categories": [
+        "electronics",
+        "maker"
+      ]
+    },
+    {
+      "id": "UC-DRzaGnL_vtBUpCFH5M0tg",
+      "handle": "@TBPNLive",
+      "name": "TBPN",
+      "categories": [
+        "interviews"
+      ],
+      "mode": "topic"
+    },
+    {
+      "id": "UCbgBDBrwsikmtoLqtpc59Bw",
+      "handle": "@TeachingTech",
+      "name": "Teaching Tech",
+      "categories": [
+        "maker",
+        "cad"
+      ]
+    },
+    {
+      "id": "UCVSHXNNBitaPd5lYz48--yg",
+      "handle": "@TechIngredients",
+      "name": "Tech Ingredients",
+      "categories": [
+        "explainers",
+        "maker",
+        "energy"
+      ]
+    },
+    {
+      "id": "UCerEIdrEW-IqwvlH8lTQUJQ",
+      "handle": "@TechTangents",
+      "name": "Tech Tangents",
+      "categories": [
+        "electronics",
+        "teardowns"
+      ]
+    },
+    {
+      "id": "UCy0tKL1T7wFoYcxCe0xjN6Q",
+      "handle": "@TechnologyConnections",
+      "name": "Technology Connections",
+      "categories": [
+        "explainers",
+        "electronics",
+        "energy"
+      ]
+    },
+    {
+      "id": "UC1r0DG-KEPyqOeW6o79PByw",
+      "handle": "@TechTechPotato",
+      "name": "TechTechPotato",
+      "categories": [
+        "electronics",
+        "manufacturing",
+        "interviews"
+      ]
+    },
+    {
+      "id": "UCAuUUnT6oDeKwE6v1NGQxug",
+      "handle": "@TED",
+      "name": "TED",
+      "categories": [
+        "interviews"
+      ],
+      "mode": "topic"
+    },
+    {
+      "id": "UC8uT9cgJorJPWu7ITLGo9Ww",
+      "handle": "@The8BitGuy",
+      "name": "The 8-Bit Guy",
+      "categories": [
+        "electronics"
+      ]
+    },
+    {
+      "id": "UC1VLQPn9cYSqx8plbk9RxxQ",
+      "handle": "@TheActionLab",
+      "name": "The Action Lab",
+      "categories": [
+        "explainers"
+      ]
+    },
+    {
+      "id": "UC6n8I1UDTKP1IWjQMg6_TwA",
+      "handle": "@TheB1M",
+      "name": "The B1M",
+      "categories": [
+        "explainers",
+        "manufacturing"
+      ]
+    },
+    {
+      "id": "UCXAS_Ekkq0iFJ9dSUIkcAkw",
+      "handle": "@TheEfficientEngineer",
+      "name": "The Efficient Engineer",
+      "categories": [
+        "explainers",
+        "cad"
+      ]
+    },
+    {
+      "id": "UCk0fGHsCEzGig-rSzkfCjMw",
+      "handle": "@EngineeringMindset",
+      "name": "The Engineering Mindset",
+      "categories": [
+        "explainers",
+        "energy",
+        "electronics"
+      ]
+    },
+    {
+      "id": "UCKxRARSpahF1Mt-2vbPug-g",
+      "handle": "@TheSignalPath",
+      "name": "The Signal Path",
+      "categories": [
+        "electronics",
+        "teardowns"
+      ]
+    },
+    {
+      "id": "UC5NO8MgTQKHAWXp6z8Xl7yQ",
+      "handle": "@ThisOldTony",
+      "name": "This Old Tony",
+      "categories": [
+        "machining",
+        "maker"
+      ]
+    },
+    {
+      "id": "UCGrpLw1W3P1_BC4J-Hpytww",
+      "handle": "@timhunkin1",
+      "name": "tim hunkin",
+      "categories": [
+        "explainers",
+        "maker"
+      ]
+    },
+    {
+      "id": "UCcfSihEYUjlCWInDQfEE1Tw",
+      "handle": "@TimWelds",
+      "name": "TimWelds",
+      "categories": [
+        "machining"
+      ]
+    },
+    {
+      "id": "UCc2lUKVOTXKlQR7Fm7h1JfQ",
+      "handle": "@TITANSofCNC",
+      "name": "TITANS of CNC MACHINING",
+      "categories": [
+        "machining",
+        "manufacturing"
+      ]
+    },
+    {
+      "id": "UCBa659QWEk1AI4Tg--mrJ2A",
+      "handle": "@TomScottGo",
+      "name": "Tom Scott",
+      "categories": [
+        "explainers"
+      ],
+      "mode": "topic"
+    },
+    {
+      "id": "UC67gfx2Fg7K2NSHqoENVgwA",
+      "handle": "@TomStantonEngineering",
+      "name": "Tom Stanton",
+      "categories": [
+        "maker",
+        "aerospace"
+      ]
+    },
+    {
+      "id": "UCjtUS7-SZTi6pXjUbzGHQCg",
+      "handle": "@UndecidedTechnology",
+      "name": "Undecided with Matt Ferrell",
+      "categories": [
+        "energy"
+      ]
+    },
+    {
+      "id": "UCu94OHbBYVUXLYPh4NBu10w",
+      "handle": "@UnexpectedMaker",
+      "name": "Unexpected Maker",
+      "categories": [
+        "electronics"
+      ]
+    },
+    {
+      "id": "UCnrGPRKAg1PgvuSHrRIl3jg",
+      "handle": "@unitedlaunchalliance",
+      "name": "United Launch Alliance",
+      "categories": [
+        "aerospace"
+      ]
+    },
+    {
+      "id": "UCsMbp4V8oxzHCMdOUP-3oWw",
+      "handle": "@unitreerobotics",
+      "name": "Unitree Robotics",
+      "categories": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "UCSIvk78tK2TiviLQn4fSHaw",
+      "handle": "@upandatom",
+      "name": "Up and Atom",
+      "categories": [
+        "explainers"
+      ],
+      "mode": "topic"
+    },
+    {
+      "id": "UCHsqqRjziUaMwZgQZHw-n1w",
+      "handle": "@urituchmanpigeon",
+      "name": "Uri Tuchman",
+      "categories": [
+        "maker"
+      ]
+    },
+    {
+      "id": "UCE4xstUnu0YmkG-W9_PyYrQ",
+      "handle": "@UsagiElectric",
+      "name": "Usagi Electric",
+      "categories": [
+        "electronics"
+      ]
+    },
+    {
+      "id": "UCHnyfMqiRRG1u-2MsSQLbXA",
+      "handle": "@veritasium",
+      "name": "Veritasium",
+      "categories": [
+        "explainers"
+      ]
+    },
+    {
+      "id": "UCiqd3GLTluk2s_IBt7p_LjA",
+      "handle": "@w2aew",
+      "name": "w2aew",
+      "categories": [
+        "electronics"
+      ]
+    },
+    {
+      "id": "UCFH4dWqQQOYkyJZUGT4q5pg",
+      "handle": "@WarpedYT",
+      "name": "Warped",
+      "categories": [
+        "cars"
+      ],
+      "aliases": [
+        "Warped Perception"
+      ]
+    },
+    {
+      "id": "UCtr07mdKhsUwVJjL8Kw_q5A",
+      "handle": "@WeberAuto",
+      "name": "WeberAuto",
+      "categories": [
+        "cars"
+      ]
+    },
+    {
+      "id": "UCM0kHJXSHR1k1wtLuliKmHg",
+      "handle": "@Welddotcom",
+      "name": "Weld.com",
+      "categories": [
+        "machining"
+      ]
+    },
+    {
+      "id": "UCqq70AnPkj4-UApS_m_6mPw",
+      "handle": "@weldingtipsandtricks",
+      "name": "weldingtipsandtricks",
+      "categories": [
+        "machining"
+      ]
+    },
+    {
+      "id": "UC9RM-iSvTu1uPJb8X5yp3EQ",
+      "handle": "@Wendoverproductions",
+      "name": "Wendover Productions",
+      "categories": [
+        "explainers",
+        "aerospace",
+        "manufacturing"
+      ],
+      "mode": "topic"
+    },
+    {
+      "id": "UC1XvxnHFtWruS9egyFasP1Q",
+      "handle": "@Whataboutit",
+      "name": "What about it!?",
+      "categories": [
+        "aerospace"
+      ]
+    },
+    {
+      "id": "UCkUD_8b1JoTL2ipOVtxfNKw",
+      "handle": "@WillCogley",
+      "name": "Will Cogley",
+      "categories": [
+        "robotics"
+      ]
+    },
+    {
+      "id": "UCfMJ2MchTSW2kWaT0kK94Yw",
+      "handle": "@williamosman",
+      "name": "William Osman",
+      "categories": [
+        "maker"
+      ],
+      "mode": "topic"
+    },
+    {
+      "id": "UCcXhhVwCT6_WqjkEniejRJQ",
+      "handle": "@Wintergatan",
+      "name": "Wintergatan",
+      "categories": [
+        "maker",
+        "machining"
+      ]
+    },
+    {
+      "id": "UCEn3fRj2e0mpqYsijxnzayg",
+      "handle": "@xylafoxlin",
+      "name": "Xyla Foxlin",
+      "categories": [
+        "maker"
+      ]
+    },
+    {
+      "id": "UCcefcZRL2oaA_uBNeo5UOWg",
+      "handle": "@ycombinator",
+      "name": "Y Combinator",
+      "categories": [
+        "interviews"
+      ],
+      "mode": "topic"
+    },
+    {
+      "id": "UCUW49KGPezggFi0PGyDvcvg",
+      "handle": "@ZackFreedman",
+      "name": "Zack Freedman",
+      "categories": [
+        "maker",
+        "electronics"
+      ]
+    }
+  ],
+  "blocked": [
+    {
+      "id": "UCBXNpF6k2n8dsI6nBH8q4sQ",
+      "handle": "@123GO_",
+      "name": "123 GO!",
+      "reason": "fake hacks"
+    },
+    {
+      "id": "UC295-Dw_tDNtZXFeAPAW6Aw",
+      "handle": "@5MinuteCraftsYouTube",
+      "name": "5-Minute Crafts",
+      "reason": "fake hacks"
+    },
+    {
+      "id": "UCaBZA9Z_5i-kWYoUJ2-uaeA",
+      "handle": "@BlossomOfficial",
+      "name": "Blossom",
+      "reason": "fake hacks"
+    },
+    {
+      "id": "UC4rlAVgAK0SGk-yTfe48Qpw",
+      "handle": "@BRIGHTSIDEOFFICIAL",
+      "name": "BRIGHT SIDE",
+      "reason": "trivia farm"
+    },
+    {
+      "id": "UCORtYCE-Fl31LQSYCx7wU2g",
+      "handle": "@creationholic101",
+      "name": "Creation Holic",
+      "reason": "fake hacks"
+    },
+    {
+      "id": "UCWwqHwqLSrdWMgp5DZG5Dzg",
+      "handle": "@TroomTroom",
+      "name": "Troom Troom",
+      "reason": "fake hacks"
+    },
+    {
+      "id": "UC1v9Z1WjiRl4b-WBWGOzsJg",
+      "handle": "@wowtech999",
+      "name": "WOW Tech",
+      "reason": "fake hacks"
+    }
+  ]
+}
