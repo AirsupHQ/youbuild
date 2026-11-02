@@ -1,0 +1,29 @@
+{
+  "name": "youbuild",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A browser extension that makes YouTube only show people who build things.",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "test": "node --test test/*.test.mjs",
+    "predemo": "playwright install chromium",
+    "demo": "node tools/demo.mjs",
+    "build": "node tools/build.mjs",
+    "verify": "node tools/verify-channels.mjs",
+    "live": "node tools/live-test.mjs",
+    "film": "node tools/film.mjs",
+    "docs-images": "node tools/docs-images.mjs",
+    "vendor-sdk": "node tools/vendor-sdk.mjs"
+  },
+  "devDependencies": {
+    "@anthropic-ai/sdk": "^1.4.0",
+    "esbuild": "^0.28.2",
+    "playwright": "^1.64.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AirsupHQ/youbuild.git"
+  },
+  "homepage": "https://github.com/AirsupHQ/youbuild"
+}
